@@ -80,7 +80,7 @@ section button:hover {
 }
 
 /* Estiliza a caixa de resultados da pesquisa */
-.produtos {
+.resultados-pesquisa {
     width: 35rem; /* Largura máxima da caixa de resultados */
     border: #e0a37f;
     outline: #e0a37f;
